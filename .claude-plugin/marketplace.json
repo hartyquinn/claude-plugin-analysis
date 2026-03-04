@@ -8,11 +8,7 @@
     "plugins": [
       {
         "name": "analysis",
-        "description": "Structured thinking framework for analysis and
-  decision making. Features research via subagent, five perspective evaluation
-   with assumption tracking, severity rated adversarial critique with pre
-  mortem, confidence calibrated synthesis, and adaptive decision guidance with
-   type detection for technical, strategic, and people decisions.",
+        "description": "Structured thinking framework for analysis and decision making. Features research via subagent, five perspective evaluation with assumption tracking, severity rated adversarial critique with pre mortem, confidence calibrated synthesis, and adaptive decision guidance with type detection for technical, strategic, and people decisions.",
         "version": "2.0.1",
         "homepage":
   "https://github.com/hartyquinn/claude-plugin-analysis#readme",
