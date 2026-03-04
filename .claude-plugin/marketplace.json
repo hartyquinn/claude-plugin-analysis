@@ -16,9 +16,8 @@
         "keywords": ["analysis", "thinking", "decision-making", "research",
   "critique", "framework", "subagent"],
         "source": {
-          "type": "git",
-          "url": "https://github.com/hartyquinn/claude-plugin-analysis.git",
-          "path": "."
+          "source": "github",
+          "repo": "hartyquinn/claude-plugin-analysis"
         }
       }
     ]

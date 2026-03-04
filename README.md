@@ -93,7 +93,7 @@ The test skill runs the full pipeline against three embedded scenarios and score
 ## Installation
 
 ```bash
-claude plugins add github:cyberswat/claude-plugin-analysis
+claude plugins add github:hartyquinn/claude-plugin-analysis
 ```
 
 ## License
