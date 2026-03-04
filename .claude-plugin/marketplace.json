@@ -1,12 +1,22 @@
 {
-  "name": "analysis",
-  "description": "Structured thinking framework for analysis and decision making. Features research via subagent, five perspective evaluation with assumption tracking, severity rated adversarial critique with pre mortem, confidence calibrated synthesis, and adaptive decision guidance with type detection for technical, strategic, and people decisions.",
-  "version": "2.0.1",
-  "author": {
+  "version": 1,
+  "owner": {
     "name": "cyberswat",
     "url": "https://github.com/cyberswat"
   },
-  "homepage": "https://github.com/cyberswat/claude-plugin-analysis#readme",
-  "repository": "https://github.com/cyberswat/claude-plugin-analysis",
-  "keywords": ["analysis", "thinking", "decision-making", "research", "critique", "framework", "subagent"]
+  "plugins": [
+    {
+      "name": "analysis",
+      "description": "Structured thinking framework for analysis and decision making. Features research via subagent, five perspective evaluation with assumption tracking, severity rated adversarial critique with pre mortem, confidence calibrated synthesis, and adaptive decision guidance with type detection for technical, strategic, and people decisions.",
+      "version": "2.0.1",
+      "homepage": "https://github.com/cyberswat/claude-plugin-analysis#readme",
+      "repository": "https://github.com/cyberswat/claude-plugin-analysis",
+      "keywords": ["analysis", "thinking", "decision-making", "research", "critique", "framework", "subagent"],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/cyberswat/claude-plugin-analysis.git",
+        "path": "."
+      }
+    }
+  ]
 }
